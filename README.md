@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there 👋<br>My name is Diana, and I am a Frontend Developer.<br>As a person, I am flexible, responsible, and pretty creative! My best quality is working with people 😎🤝😎.<br>Additionally, I have a reasonable proficiency in English (C1).<br><br> I enjoy being creative with code and many possibilities about how exactly something could be implemented.<br><br>
+Hello there 👋<br>My name is Diana, and I am a Frontend Developer.<br>As a person, I am flexible, responsible, and pretty creative! My best quality is working with people 😎🤝😎.<br><br> I enjoy being creative with code and many possibilities about how exactly something could be implemented.<br><br>
 
 
 ## 🌐 Socials:
