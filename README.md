@@ -3,7 +3,7 @@ Hello there 👋<br>My name is Diana, and I am a Frontend Developer.<br>As a per
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diana-honcharova-08a2131a7/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/diana-honcharova-08a2131a7) 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/polinavafik) 
 
 # 💻 Tech Stack:
